@@ -11,7 +11,7 @@ How to run
 
 3. This will start service at http://localhost:8080 port
 
-4. If you deploying to PCF or Kuberneties pod it will be http://<serverhost>:8080 port
+4. If you deploying to PCF or Kuberneties pod it will be http://yourserverhost:8080 port
 
 5. Test service by calling below url from browser
 
