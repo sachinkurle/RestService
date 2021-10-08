@@ -2,7 +2,7 @@
 
 This Service shows up current time and you can setup dealyed service response with loop and sleep time
 
-HOw to run
+How to run
 
 1. Copy RestService\executableJar\currenttime-1.0.0.jar to your desired folder
 
@@ -35,6 +35,7 @@ Hello Sachin Greetings! Current Time is 2021/Oct/07 21:49:24
 
 http://localhost:8080/time/currentTime
 
+This will return pre configured default loopCount=100 and sleepCount=500 response
 Output - 
 
 Service looped 100 times & each loop iteration slept for 500 milliseconds
